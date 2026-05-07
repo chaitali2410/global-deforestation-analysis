@@ -1,5 +1,5 @@
 # Global Deforestation and Forest Cover Trend Analysis Using Python
-
+![Project Banner](visuals/project_banner.png)
 ## Project Overview
 This project analyzes global forest area trends using World Bank forest area and GDP growth datasets. The analysis focuses on identifying long-term forest cover changes, countries with major forest loss/gain, and the relationship between GDP growth and forest area.
 
